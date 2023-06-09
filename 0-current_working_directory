@@ -2,10 +2,3 @@
 $ ./0-current_working_directory
 /root/alx-system_engineering-devops/0x00-shell_basics
 $
-$echo "# alx-system_engineering-devops" >> README.md
-$$git init
-$git add README.md
-$git commit -m "first commit"
-$git branch -M main
-$git remote add origin https://github.com/MekdesHailu/alx-system_engineering-devops.git
-$git push -u origin main
