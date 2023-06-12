@@ -1,0 +1,3 @@
+!/bin/bash
+/bin/etc/share/$ ./2-hellofile
+$ ./2-hellofile
