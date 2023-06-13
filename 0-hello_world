@@ -1,3 +1,0 @@
-!# /bin/bash
-/bin/tmp/h$ ./0-hello_world 
-/bin/tmp/h$ ./0-hello_world | cat -e
